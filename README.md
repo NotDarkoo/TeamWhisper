@@ -44,4 +44,4 @@ Installation:
     Restart or reload your server to activate the plugin.
 
 
-Donate: If you enjoy using Team Whisper and want to support its development, consider making a donation. Your contributions help us continue to improve and maintain the plugin. Donate via PayPal. Thank you for your support! 
+Donate: If you enjoy using Team Whisper and want to support its development, consider making a donation. Your contributions help us continue to improve and maintain the plugin. Donate via PayPal (https://paypal.me/notd4rko). Thank you for your support! 
