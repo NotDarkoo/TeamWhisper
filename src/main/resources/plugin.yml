@@ -1,0 +1,38 @@
+name: TeamWhisper
+version: '${project.version}'
+main: me.darko.TeamWhisper.TeamWhisper
+api-version: '1.21'
+commands:
+  teamCreate:
+    description: Creates a new team
+    usage: /<command> <team name>
+  teamInvite:
+    description: Invites a player to your team
+    usage: /<command> <player name>
+  teamChat:
+    description: Sends a message to your team
+    usage: /<command> <message>
+  teamKick:
+    description: Kicks a player from your team
+    usage: /<command> <player name>
+  teamDisband:
+    description: Disbands your team
+    usage: /<command>
+  teamAccept:
+    description: Accepts a team invite
+    usage: /<command>
+  teamLeave:
+    description: Leaves your team
+    usage: /<command>
+  teamInfo:
+    description: Shows information about your team
+    usage: /<command>
+  twHelp:
+    description: Shows the help message
+    usage: /<command>
+  teamWhisper:
+    description: Shows the help message
+    usage: /<command>
+  twReload:
+    description: Reload the config file
+    usage: /<command>
